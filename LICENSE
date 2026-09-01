@@ -1,0 +1,25 @@
+Wordpress admin-menu editor — plugin de WordPress
+Copyright (C) 2026 IPardelo
+
+Este programa es software libre: puedes redistribuirlo y/o modificarlo bajo los
+términos de la Licencia Pública General de GNU publicada por la Free Software
+Foundation, ya sea la versión 2 de la Licencia o (a tu elección) cualquier
+versión posterior.
+
+Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA
+GARANTÍA; ni siquiera la garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA
+UN PROPÓSITO PARTICULAR. Consulta la Licencia Pública General de GNU para más
+detalles.
+
+Deberías haber recibido una copia de la Licencia Pública General de GNU junto
+con este programa. Si no fue así, consulta:
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+-------------------------------------------------------------------------------
+NOTA: este archivo contiene el aviso de licencia. Para incluir el texto legal
+completo, sustitúyelo por el contenido de:
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+
+En GitHub también puedes hacerlo desde "Add file" → "Create new file" →
+escribe "LICENSE" → botón "Choose a license template" → GNU General Public
+License v2.0.
